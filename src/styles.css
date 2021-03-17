@@ -1,0 +1,3 @@
+/* @tailwind base; */ /* skip this to make it easier to see changes in dist/styles.css */
+@tailwind components;
+@tailwind utilities;
